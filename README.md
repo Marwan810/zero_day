@@ -1,2 +1,1 @@
-first day in alx program
-Linux
+first day in alx
